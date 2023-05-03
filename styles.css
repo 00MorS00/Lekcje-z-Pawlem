@@ -1,0 +1,13 @@
+.container{
+    display: flex;    
+    }
+    h1 {   
+        font-size: 50px;
+        color: rgb(214, 80, 31);    
+    }
+    
+    p {
+        font-size: 20px;
+        color:rgb(36, 4, 4) ;
+    }
+    
